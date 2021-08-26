@@ -4,6 +4,7 @@ function App() {
     <div>
         <HelloWorld/>
         <div>V1.2</div>
+        <div>Hot-fix</div>
     </div>
   );
 }
